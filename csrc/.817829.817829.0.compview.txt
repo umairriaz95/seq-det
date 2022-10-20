@@ -1,0 +1,7 @@
+{"vcs1":{"timestamp_begin":1665296859.773663357, "rt":0.21, "ut":0.10, "st":0.04}}
+{"vcselab":{"timestamp_begin":1665296860.050212853, "rt":0.23, "ut":0.16, "st":0.04}}
+Command exited with non-zero status 2
+{"link":{"timestamp_begin":1665296860.331935089, "rt":0.12, "ut":0.06, "st":0.03}}
+{"SNPS_VCS_INTERNAL_ROOT_START_TIME": 1665296859.521521998}
+{"VCS_COMP_START_TIME": 1665296859.521521998}
+{"VCS_COMP_END_TIME": 1665296860.498678243}

@@ -1,0 +1,30 @@
+
+****************************************
+Report : timing
+        -path full
+        -delay max
+        -max_paths 1
+Design : prac
+Version: R-2020.09-SP2
+Date   : Sun Oct  9 16:39:19 2022
+****************************************
+
+Operating Conditions: nom_pvt   Library: lsi_10k
+Wire Load Model Mode: top
+
+  Startpoint: out_reg (rising edge-triggered flip-flop)
+  Endpoint: out (output port)
+  Path Group: (none)
+  Path Type: max
+
+  Point                                    Incr       Path
+  -----------------------------------------------------------
+  out_reg/CP (FD1)                         0.00       0.00 r
+  out_reg/Q (FD1)                          1.37       1.37 f
+  out (out)                                0.00       1.37 f
+  data arrival time                                   1.37
+  -----------------------------------------------------------
+  (Path is unconstrained)
+
+
+1
